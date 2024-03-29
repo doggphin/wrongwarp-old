@@ -1,4 +1,4 @@
-# wrongwarp
+# Wrong Warp
 
 The first attempt at making my dream game, made in C# and Unity, made for fun between Fall 2021 - Summer 2022.
 
