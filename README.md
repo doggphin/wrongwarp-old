@@ -1,4 +1,4 @@
-# wrongwarp (unity)
+# wrongwarp
 
 The first attempt at making my dream game, made in C# and Unity, made for fun between Fall 2021 - Summer 2022.
 
@@ -14,23 +14,24 @@ Features include:
 
 As I gradually moved away from the core features Unity provided (eg, GameObjects) by creating my own, this project was my inspiration to make my own game engine.
 
-## Instructions:
+## Instructions
 
 Intended to be used with Unity 2021.3.0f1.
 
 Controls:
- - On the main menu, select 'Host' to host, and 'Join' to join a host.
- - Move around with WASD.
- - Jump with space.
- - Interact with E.
- - Use server emotes with 'H' and 'B'.
+ - On the main menu, select 'Host' to host and 'Join' to join a host
+ - Move with WASD
+ - Jump with space
+ - Interact with E
+ - Open inventory with Tab
+ - Use server emotes with H and B
 
-## Visuals:
+## Visuals
 
-### Player state synchronization
+### World state synchronization
 ![Idle](visuals/visual1.gif)
 
-### Inventories in inventories in inventories in...
+### Items within inventories within items within inventories
 ![2](visuals/visual2.png)
 
 ### Video 1: Portal echoes
