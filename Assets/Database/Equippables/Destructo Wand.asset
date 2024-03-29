@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f6dd7f93f16e6d54c8a082354cb54a70, type: 3}
+  m_Name: Destructo Wand
+  m_EditorClassIdentifier: 
+  equippableObject: {fileID: 6036289042734955467, guid: 39d4522559f03d04f96faec339afe080, type: 3}
+  projectilePreset: {fileID: 11400000, guid: 545267d782a8dd843a9ef77a3da7e4f9, type: 2}
+  useSound: {fileID: 0}
+  ammoType: {fileID: 0}

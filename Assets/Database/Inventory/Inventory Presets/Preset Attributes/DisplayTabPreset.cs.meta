@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e499c637a14e65444b9a038475cf1a98
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - imageGenerator: {instanceID: 0}
+  - defaultBackground: {fileID: 21300000, guid: b2625e8cbc8800a4a96b780e346f02e0, type: 3}
+  - slotSprite: {fileID: 21300000, guid: abbdb47f86ecf6f4395c184b389226e4, type: 3}
+  - slotSpriteHighlighted: {fileID: 21300000, guid: 6a5ea04fbf57e134d95a3c4f06cff978, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

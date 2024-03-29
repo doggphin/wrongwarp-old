@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1078b522313a04eb6f1dcca1516a0c, type: 3}
+  m_Name: 1_Bow
+  m_EditorClassIdentifier: 
+  itemID: 1
+  maxStackSize: 1
+  itemSprite: {fileID: 21300000, guid: 5a86113d800875e4ead7c31740e60ddd, type: 3}
+  itemName: Bow
+  itemDescription: The OG item.
+  inventoryPreset: {fileID: 11400000, guid: a5c84bd33d6655f4fb48a0145536bde6, type: 2}
+  equippable: {fileID: 0}
+  tags:
+  - {fileID: 0}

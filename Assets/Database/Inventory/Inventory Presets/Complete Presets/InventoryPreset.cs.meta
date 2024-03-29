@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: fd4ee019601c4514d8a7b688ec9fa99a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - displayTabPreset: {fileID: 11400000, guid: 0d972edf058b2654b9ae0043c8200a32, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

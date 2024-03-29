@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1078b522313a04eb6f1dcca1516a0c, type: 3}
+  m_Name: 13_Wand
+  m_EditorClassIdentifier: 
+  itemID: 13
+  maxStackSize: 1
+  itemSprite: {fileID: 21300000, guid: 6b9daab20ee757e4db57c0b9cb2248c6, type: 3}
+  itemName: Magic Wand
+  itemDescription: A wand that uses runes to cast spells.
+  inventoryPreset: {fileID: 11400000, guid: 00197a6b828281d44b23a243fda472b9, type: 2}
+  equippable: {fileID: 11400000, guid: ca4c582c08bfeec40b319a77e442e9c3, type: 2}
+  serializedTags:
+  - id: 0
+    dataType: 2
+    intData: 0
+    ushortData: 0
+    floatData: 16
+    boolData: 0
+    stringData: 
+  - id: 0
+    dataType: 2
+    intData: 0
+    ushortData: 0
+    floatData: 100
+    boolData: 0
+    stringData: 

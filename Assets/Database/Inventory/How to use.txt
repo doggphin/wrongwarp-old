@@ -1,0 +1,9 @@
+How to use this system:
+
+1. Go to Assets/InventoryDatabase/Inventory Presets
+2. Right click => Create (top) => Assets (top) => Inventory => InventoryPreset
+3. Drag and drop different ScriptableObjects into its fields.
+4. Drag and drop your InventoryPreset into AllLayouts' "All Presets" list. (AllLayouts is also in Assets/InventoryDatabase/Inventory Presets)
+
+You can then use the inventory preset you in-game. Its ID will be its index inside AllLayouts.
+

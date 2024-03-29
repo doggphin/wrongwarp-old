@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e499c637a14e65444b9a038475cf1a98, type: 3}
+  m_Name: 2_Equipment
+  m_EditorClassIdentifier: 
+  whitelist: []
+  blacklist: []
+  positionGenerator: {fileID: 11400000, guid: 1b1d740458152b041afef6b431dd6c32, type: 2}
+  backgroundGenerator: {fileID: 11400000, guid: 40ff415221290864797d1dadeb557dda, type: 2}
+  slotType: {fileID: 11400000, guid: 5c0764e04f53ac94187b8d72c7e73896, type: 2}

@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bff54be630b344a40a7fb470cd061c3d, type: 3}
+  m_Name: Database
+  m_EditorClassIdentifier: 
+  itemDatabase:
+  - {fileID: 11400000, guid: 238539ac92e1fe844979c157d9f7320f, type: 2}
+  - {fileID: 11400000, guid: b0c0cb85dfbd3ed4caf141b1ce602a8c, type: 2}
+  - {fileID: 11400000, guid: f0478e38b4288b543a9f63cb2e05035c, type: 2}
+  - {fileID: 11400000, guid: 557a8512bb91f984dbfb264243cdb5e0, type: 2}
+  - {fileID: 11400000, guid: 538a522d183eb09429908e70a4c2cf4c, type: 2}
+  - {fileID: 11400000, guid: 40bc8ae3e19f28543b5b307773fe513b, type: 2}
+  - {fileID: 11400000, guid: 9c6d9e725518fc84b9191cb5954eb1cd, type: 2}
+  - {fileID: 11400000, guid: 13bc3b840f048734799052b136b537e1, type: 2}
+  - {fileID: 11400000, guid: 58db9f7c43d99e243ba925d2e99bf6fe, type: 2}
+  - {fileID: 11400000, guid: d185bf1eddeb51647acbd13e9df1038d, type: 2}
+  - {fileID: 11400000, guid: 76d231e25cd5eed45b3eed78295dc7d1, type: 2}
+  - {fileID: 11400000, guid: 12d74f1e757037a4da1d07e67451f9f0, type: 2}
+  - {fileID: 11400000, guid: cf8c5c4c54b7ed044a636b16f99817f5, type: 2}
+  - {fileID: 11400000, guid: 38bb371479fb48b48b39ca9b3788a4bc, type: 2}
+  inventoryPresetDatabase:
+  - {fileID: 11400000, guid: a5c84bd33d6655f4fb48a0145536bde6, type: 2}
+  - {fileID: 11400000, guid: 7b28cbded09a7064a9d501d52030467e, type: 2}
+  - {fileID: 11400000, guid: e8918096ec5d387499a3ee3bf312a22c, type: 2}
+  - {fileID: 11400000, guid: 00197a6b828281d44b23a243fda472b9, type: 2}
+  displayTabPresetDatabase:
+  - {fileID: 11400000, guid: 0d972edf058b2654b9ae0043c8200a32, type: 2}
+  - {fileID: 11400000, guid: 1480ad3c7f76456478f5748606eed863, type: 2}
+  - {fileID: 11400000, guid: 0f3b2862d096a6f4f80c729883336819, type: 2}
+  backgroundGeneratorDatabase:
+  - {fileID: 11400000, guid: 40ff415221290864797d1dadeb557dda, type: 2}
+  - {fileID: 11400000, guid: 2d08574c8ca15684f8598157c11f8f03, type: 2}
+  positionGeneratorDatabase:
+  - {fileID: 11400000, guid: fd3bb3b7dfc15e149b53721e6775fb53, type: 2}
+  - {fileID: 11400000, guid: d75091a338f042f4e8786d509d01e768, type: 2}
+  - {fileID: 11400000, guid: 1b1d740458152b041afef6b431dd6c32, type: 2}
+  slotTypeDatabase:
+  - {fileID: 11400000, guid: 5c0764e04f53ac94187b8d72c7e73896, type: 2}
+  itemTypeDatabase:
+  - {fileID: 11400000, guid: d0f86bca4eaea584983f01177ff2a5ba, type: 2}
+  - {fileID: 11400000, guid: ea5e421a19a7f674d97e84b526223e72, type: 2}
+  - {fileID: 11400000, guid: a19a276a78100b8499c25c497b887133, type: 2}
+  projectilePresetDatabase:
+  - {fileID: 11400000, guid: 545267d782a8dd843a9ef77a3da7e4f9, type: 2}

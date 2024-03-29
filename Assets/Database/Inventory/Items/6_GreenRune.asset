@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d1078b522313a04eb6f1dcca1516a0c, type: 3}
+  m_Name: 6_GreenRune
+  m_EditorClassIdentifier: 
+  itemID: 6
+  maxStackSize: 100
+  itemName: Green Rune
+  itemDescription: A rune used in casting spells.
+  itemSprite: {fileID: 21300000, guid: a44db9307b963e2418ee679881360ce5, type: 3}
+  isEquippable: 0
+  itemType: 3
