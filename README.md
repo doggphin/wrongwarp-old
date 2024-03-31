@@ -30,7 +30,7 @@ Controls:
 ### World state synchronization
 ![Idle](visuals/visual1.gif)
 
-### Items within inventories within items within inventories
+### Fully networked items within inventories within items within inventories
 ![2](visuals/visual2.png)
 
 ### Video 1: Portal echoes
