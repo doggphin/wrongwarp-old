@@ -20,8 +20,7 @@ Intended to be used with Unity 2021.3.0f1.
 
 Controls:
  - On the main menu, select 'Host' to host and 'Join' to join a host
- - Move with WASD
- - Jump with space
+ - Move with WASD and Space
  - Interact with E
  - Open inventory with Tab
  - Use server emotes with H and B
