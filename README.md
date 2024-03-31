@@ -9,7 +9,7 @@ Features include:
  - A server-authoritative multiplayer model with client prediction based on [Valve's Source Multiplayer Networking article](https://developer.valvesoftware.com/wiki/Source_Multiplayer_Networking) which encoded/decoded highly space-efficient byte streams and ran logic through operation codes
  - [Portals that transmit visuals, raycasts and audio](https://www.youtube.com/watch?v=0VFI9qGvLxg), including [recursive audial echoes](https://www.youtube.com/watch?v=k0CLrdIbJzo)
  - A comprehensive server-authoritative inventory system including items with their own inventories using Unity's ScriptableObjects
- - Modular inventory structures and item data using Unity's ScriptableObjects system
+ - Completely modular inventory structures using Unity's ScriptableObjects system
 
 
 As I gradually moved away from the core features Unity provided (eg, GameObjects) by creating my own, this project was my inspiration to make my own game engine.
