@@ -12,7 +12,7 @@ Features include:
  - Completely modular inventory structures using Unity's ScriptableObjects system
 
 
-As I gradually moved away from the core features Unity provided (eg, GameObjects) by creating my own, this project was my inspiration to make my own game engine.
+As I gradually moved away from the core features Unity and Mirror provided (eg, NetworkIdentities and GameObjects) by creating my own versions of them, this project was my inspiration to make my own game engine.
 
 ## Instructions
 
