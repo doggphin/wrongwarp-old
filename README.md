@@ -1,5 +1,6 @@
 # Wrong Warp
 
+!! THIS VERSION OF WRONG WARP IS OLD -- NEW WRONG WARP (2024+) IS IN A PRIVATE REPOSITORY !!
 My first attempt at making my dream game, made in C# and Unity for fun between Fall 2021 - Summer 2022.
 
 This was my introduction to serious game development which involved learning how to maintain a large codebase and much exploration of different aspects of game design and coding practices.
